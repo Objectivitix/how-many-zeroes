@@ -1,0 +1,6 @@
+# Context management for agents
+AGENTS/
+node_modules
+dist
+*.local
+.DS_Store
